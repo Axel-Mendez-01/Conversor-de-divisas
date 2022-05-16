@@ -10,7 +10,7 @@
 
 
 #### Introducción:
-Convertidor de divisas es uno de los proyectos para obtener la certificación del bootcamp **Introducción a la programación** de codigo facilito.
+Convertidor de divisas es uno de los proyectos para obtener la certificación del bootcamp **Introducción a la programación** de [Código Facilito.](https://codigofacilito.com/ "Código Facilito")
 El proyecto fue creado utilizando el lenguaje de programación python y el paquete de tkinter para la interfaz gráfica, también se hizo uso de una API para obtener el valor de las monedas en tiempo real.
 
 ##### Nota:
